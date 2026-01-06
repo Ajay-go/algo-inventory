@@ -1,0 +1,18 @@
+# Core data processing
+pandas>=2.0
+numpy>=1.24
+
+# Database connectivity
+SQLAlchemy>=2.0
+pymysql>=1.1.0
+mysql-connector-python>=8.0
+pyodbc>=5.0
+
+# Environment & configuration
+python-dotenv>=1.0
+
+# Date & time utilities (standard lib, kept for clarity)
+python-dateutil>=2.8
+
+# Jupyter / debugging (optional but used during development)
+ipykernel>=6.25
